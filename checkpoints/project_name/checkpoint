@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-320"
+all_model_checkpoint_paths: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-256"
+all_model_checkpoint_paths: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-272"
+all_model_checkpoint_paths: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-288"
+all_model_checkpoint_paths: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-304"
+all_model_checkpoint_paths: "C:\\lds\\project\\deep_learning_frame\\checkpoints\\project_name/model-320"
